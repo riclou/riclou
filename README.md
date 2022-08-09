@@ -17,8 +17,8 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![brook coffe](https://user-images.githubusercontent.com/51518580/183703098-7f069910-3256-4641-aa3f-2b8104b77393.gif)"
-  </div><br><br>
+
+  </div>
 
   <div> 
 
