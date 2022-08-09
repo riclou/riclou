@@ -1,4 +1,5 @@
-### Olá eu sou o Ricardo, seja bem vindo ao meu perfil!
+### Olá eu sou o Ricardo, programador front-end.
+Seja bem vindo ao meu perfil!
 
 <div align="center">
   <a href="https://github.com/riclou">
