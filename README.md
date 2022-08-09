@@ -23,3 +23,9 @@
   <a href="https://www.linkedin.com/in/claudio-ricardo-silva-rego-758550221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </div>
+
+<div>
+
+![brook coffe](https://user-images.githubusercontent.com/51518580/183706419-4f2688a7-484d-4be0-b0ed-c1cbdf12c930.gif)
+
+</div>
