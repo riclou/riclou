@@ -1,4 +1,4 @@
-### Olá eu sou o Ricardo, programador front-end.
+### Olá eu sou o Ricardo, desenvolvedor front-end.
 Seja bem vindo ao meu perfil!
 
 <div align="center">
