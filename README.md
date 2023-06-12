@@ -1,4 +1,4 @@
-### Olá eu sou o Ricardo, desenvolvedor Full-Stack.
+### Olá eu sou o Ricardo, desenvolvedor Front-End
 Seja bem vindo ao meu perfil!
 
 <div align="center">
